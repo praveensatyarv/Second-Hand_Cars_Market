@@ -50,5 +50,5 @@ GMC, Ford, Chevy, Audi, and BMW are the top 5 brands with the highest depreciati
 2. There is generally an inverse relationship between price and availability for most brands. However, brands like Porsche and Mercedes-Benz are notable exceptions, maintaining high prices despite high availability due to their diverse model offerings.
 3. The most affordable brands in the mid-tier segment (GMC, Ford, Chevy, Audi, and BMW) also tend to have the highest depreciation rates. This suggests that while these brands may be more accessible initially, they may offer less value retention for buyers planning to resell in the future
 
-[Tableau Public Dashboard Link](https://public.tableau.com/app/profile/praveen.satya.r.v/viz/SecondHandCarSales/Second-HandCarsMarketDashboard) |
+[LinkedIn Profile Link](https://www.linkedin.com/in/praveen-satya-r-v/) | [Tableau Public Dashboard Link](https://public.tableau.com/app/profile/praveen.satya.r.v/viz/SecondHandCarSales/Second-HandCarsMarketDashboard) |
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset/data)
